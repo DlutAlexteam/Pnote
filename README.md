@@ -42,10 +42,6 @@ toolbar_layout.xml， activity_main.xml 五个 xml 文件进行构建。
 
 我们的OCR旨在创建多语言、卓越、领先和实用的OCR工具，帮助用户培训更好的模型，并将它们应用到实践中。由于我们不能给出比paddlepaddleocr更好的结果，我们再PPocr的推理模型的基础上改进网络，进行识别
 
-### 识别效果
-![](https://ai-studio-static-online.cdn.bcebos.com/3940960241a84a68a58b98eaeb2303b786dbc4eeee8c44f3bb5e977777612e97)
-![](https://ai-studio-static-online.cdn.bcebos.com/626a4fb9baad455ebc2135cb97f54f84611829c953dd4b24b98ee5745a8907b9)
-
 ### OCR 预训练模型
 
 | Model introduction                              | Model name              | Recommended scene | Detection model                                              | Direction classifier                                         | Recognition model                                            |
